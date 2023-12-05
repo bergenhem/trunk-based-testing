@@ -10,6 +10,9 @@ function App() {
           This is much cooler text
         </p>
       </header>
+      <div>
+        <p>More divs more problems</p>
+      </div>
     </div>
   );
 }
