@@ -11,7 +11,7 @@ function App() {
         </p>
       </header>
       <div>
-        <p>More divs more problems</p>
+        <p>More divs more problems. Wow, much text.</p>
       </div>
     </div>
   );
